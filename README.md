@@ -31,7 +31,7 @@ Note - The tests were written by us and you can assume are accurate.
 We need the code to be fixed and completed, below is a summary of the remaining work.
 
 **Please push the repo to your GitHub account and share the link
-with us**
+with us, DO NOT create a fork **
 
 ### Driver Insurance Spec
 
